@@ -23,7 +23,7 @@ pip install ultralytics opencv-python pillow tkinter
 
 ### **3️⃣ Run the Application**  
 ```sh
-python app.py
+python main.py
 ```
 
 ## **Usage**  
